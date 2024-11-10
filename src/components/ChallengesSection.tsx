@@ -32,7 +32,7 @@ export default function ChallengesSection() {
 						Challenge 2
 					</h1>
 					<p className="font-[300] text-[14px] text-white">
-						Let's Talk About The Maasai
+						Let&apos;s Talk About The Maasai
 					</p>
                     <Image
 						src={"/Stars.svg"}
