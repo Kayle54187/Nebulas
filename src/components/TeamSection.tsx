@@ -6,7 +6,7 @@ export default function TeamSection() {
 
     return (
 
-        <div className="w-[75%] mx-auto py-12 space-y-8">
+        <div className="w-[75%] mx-auto py-12 space-y-8" id="team">
             <h1 className="text-[#130D3A] text-[60px] font-[700] text-center">Our Team</h1>
             <div className="grid grid-cols-2 relative justify-around gap-y-6">
                 {

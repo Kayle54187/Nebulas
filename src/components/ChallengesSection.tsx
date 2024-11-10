@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function ChallengesSection() {
 	return (
-		<div>
+		<div id="journey">
 			<h1 className="text-[#130D3A] text-[60px] font-[700] text-center mb-8">
 				Our E-Lab Challenges
 			</h1>
