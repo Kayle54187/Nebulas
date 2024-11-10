@@ -30,7 +30,7 @@ export const teamMembers = [
 		role: "Member",
 	},
 	{
-		image: "/team.JPG",
+		image: "/gisele.jpeg",
 		name: "Amen Gisele Mwizerwa",
 		role: "Member",
 	},
