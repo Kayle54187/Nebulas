@@ -8,7 +8,7 @@ export default function TeamSection() {
 
         <div className="w-[75%] mx-auto py-12 space-y-8">
             <h1 className="text-[#130D3A] text-[60px] font-[700] text-center">Our Team</h1>
-            <div className="grid grid-cols-2 relative">
+            <div className="grid grid-cols-2 relative justify-around gap-y-6">
                 {
                     teamMembers.map((member, index) => (
                         <div className="space-y-4" key={index}>

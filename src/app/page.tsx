@@ -1,3 +1,4 @@
+import ChallengesSection from "@/components/ChallengesSection";
 import HeroSection from "@/components/HeroSection";
 import InstagramBanner from "@/components/InstagramBanner";
 import ProblemSection from "@/components/ProblemSection";
@@ -13,6 +14,7 @@ export default function Home() {
 			<SolutionSection />
 			<ValuesSection />
 			<TeamSection />
+			<ChallengesSection />
 			<InstagramBanner />
 		</div>
 	);
