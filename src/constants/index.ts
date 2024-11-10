@@ -20,7 +20,7 @@ export const teamMembers = [
 		role: "Member",
 	},
 	{
-		image: "/team.JPG",
+		image: "/alain.jpeg",
 		name: "Alain Mugabo",
 		role: "Member",
 	},
