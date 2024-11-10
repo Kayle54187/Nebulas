@@ -1,6 +1,6 @@
 export default function SolutionSection() {
 	return (
-		<div className="bg-[#ECF2F7]">
+		<div className="bg-[#ECF2F7]" id="solution">
 			<div className="w-[75%] mx-auto py-12 grid grid-cols-2 gap-4 items-start my-12">
 				<div className="space-y-4">
 					<h1 className="text-[#130D3A] font-[700] text-[60px]">

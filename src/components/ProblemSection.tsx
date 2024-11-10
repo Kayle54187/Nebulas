@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function ProblemSection() {
 	return (
-		<div className="w-[75%] mx-auto py-12 grid grid-cols-2 gap-4 items-center mb-12">
+		<div className="w-[75%] mx-auto py-12 grid grid-cols-2 gap-4 items-center mb-12" id="problem">
 			<div className="relative">
                 <Image width={500} height={500} alt="Problem" src={"/problem.jpeg"} className="object-cover rounded-xl"/>
             </div>
