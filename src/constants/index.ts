@@ -15,7 +15,7 @@ export const teamMembers = [
 		role: "Member",
 	},
 	{
-		image: "/kayle2.jpg",
+		image: "/kayle3.jpg",
 		name: "Ingabire Christian Habimana",
 		role: "Member",
 	},
