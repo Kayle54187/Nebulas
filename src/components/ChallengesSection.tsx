@@ -13,10 +13,10 @@ export default function ChallengesSection() {
 						height="100%"
 						src="https://www.youtube.com/embed/wtOOtyriclQ"
 						title="Challenge 1 - Meet the Nebulas"
-						frameborder="0"
+						frameBorder="0"
 						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-						referrerpolicy="strict-origin-when-cross-origin"
-						allowfullscreen
+						referrerPolicy="strict-origin-when-cross-origin"
+						allowFullScreen
 					></iframe>
 				</div>
 				<div className="col-span-2 bg-[#ECF2F7] p-8 space-y-4">
@@ -47,10 +47,10 @@ export default function ChallengesSection() {
 						height="100%"
 						src="https://www.youtube.com/embed/BrZSDkGjopc"
 						title="Challenge 2 - Let&#39;s talk about Maasai"
-						frameborder="0"
+						frameBorder="0"
 						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-						referrerpolicy="strict-origin-when-cross-origin"
-						allowfullscreen
+						referrerPolicy="strict-origin-when-cross-origin"
+						allowFullScreen
 					></iframe>
 				</div>
 			</div>
@@ -61,10 +61,10 @@ export default function ChallengesSection() {
 						height="100%"
 						src="https://www.youtube.com/embed/lIfmGpwvdfc"
 						title="Challenge 3 - A true local hero"
-						frameborder="0"
+						frameBorder="0"
 						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-						referrerpolicy="strict-origin-when-cross-origin"
-						allowfullscreen
+						referrerPolicy="strict-origin-when-cross-origin"
+						allowFullScreen
 					></iframe>
 				</div>
 				<div className="col-span-2 bg-[#20283E] p-8 space-y-4">
@@ -101,10 +101,10 @@ export default function ChallengesSection() {
 						height="100%"
 						src="https://www.youtube.com/embed/UCeVk2h3_3M"
 						title="Challenge 4 - An interview with Google Developers Group"
-						frameborder="0"
+						frameBorder="0"
 						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-						referrerpolicy="strict-origin-when-cross-origin"
-						allowfullscreen
+						referrerPolicy="strict-origin-when-cross-origin"
+						allowFullScreen
 					></iframe>
 				</div>
 			</div>
@@ -115,10 +115,10 @@ export default function ChallengesSection() {
 						height="100%"
 						src="https://www.youtube.com/embed/RUpfOoAynhw"
 						title="Challenge 5  - Launching our mission!"
-						frameborder="0"
+						frameBorder="0"
 						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-						referrerpolicy="strict-origin-when-cross-origin"
-						allowfullscreen
+						referrerPolicy="strict-origin-when-cross-origin"
+						allowFullScreen
 					></iframe>
 				</div>
 				<div className="col-span-2 bg-[#7B11F9] p-8 space-y-4">
