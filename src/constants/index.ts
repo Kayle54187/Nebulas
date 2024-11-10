@@ -5,18 +5,23 @@ export const teamMembers = [
 		role: "Team Leader",
 	},
 	{
-		image: "/team.JPG",
+		image: "/kayle3.jpg",
+		name: "Ingabire Christian Habimana",
+		role: "Member",
+	},
+	{
+		image: "/esther.jpeg",
 		name: "Esther Mahoro",
+		role: "Member",
+	},
+	{
+		image: "/gisele.jpeg",
+		name: "Amen Gisele Mwizerwa",
 		role: "Member",
 	},
 	{
 		image: "/team.JPG",
 		name: "Alain Mugabo",
-		role: "Member",
-	},
-	{
-		image: "/kayle3.jpg",
-		name: "Ingabire Christian Habimana",
 		role: "Member",
 	},
 	{
@@ -27,11 +32,6 @@ export const teamMembers = [
 	{
 		image: "/team.JPG",
 		name: "Magnifique Stessie ISENGWE	",
-		role: "Member",
-	},
-	{
-		image: "/gisele.jpeg",
-		name: "Amen Gisele Mwizerwa",
 		role: "Member",
 	},
 ];
