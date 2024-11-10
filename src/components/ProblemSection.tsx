@@ -11,7 +11,7 @@ export default function ProblemSection() {
 					The Problem
 				</h1>
 				<p className="text-[20px] font-[300] text-[#161C2D]">
-                According to World Bank data, 38% of Rwanda's urban population lives in slums. A large portion of these residents are rural-urban migrants who move to cities seeking better opportunities. However, many arrive without the skills or resources needed to secure stable incomes, and the high cost of living in urban areas makes it even harder for them to survive.						
+                According to World Bank data, 38% of Rwanda&apos;s urban population lives in slums. A large portion of these residents are rural-urban migrants who move to cities seeking better opportunities. However, many arrive without the skills or resources needed to secure stable incomes, and the high cost of living in urban areas makes it even harder for them to survive.						
                 </p>
 			</div>
 		</div>
