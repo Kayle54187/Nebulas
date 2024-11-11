@@ -12,6 +12,22 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      animation: {
+        wave: "wave 5s ease-in-out infinite",
+      },
+      keyframes: {
+        wave: {
+          "0%": {
+            transform: "translateX(0) rotate(180deg)",
+          },
+          "50%": {
+            transform: "translateX(-50%) rotate(180deg)",
+          },
+          "100%": {
+            transform: "translateX(0) rotate(180deg)",
+          },
+        },
+      },
     },
   },
   plugins: [],

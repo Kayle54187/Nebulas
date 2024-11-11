@@ -2,18 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-#navbar {
-  transition: all 0.3s ease-in-out;
-}
-
-.fixed-navbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 50;
-}
-
 html {
   scroll-behavior: smooth;
+}
+
+* {
+  font-size: 14px;
 }
